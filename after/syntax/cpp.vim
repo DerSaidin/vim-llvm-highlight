@@ -4,7 +4,7 @@ syntax keyword cppLLVMfunctional isa
 syntax keyword cppLLVMfunctional cast
 syntax keyword cppLLVMfunctional cast_or_null
 syntax keyword cppLLVMfunctional dyn_cast
-syntax keyword cppLLVMfunctional din_cast_or_null
+syntax keyword cppLLVMfunctional dyn_cast_or_null
 
 syntax keyword cppLLVMtype raw_ostream
 syntax keyword cppLLVMtype raw_fd_ostream

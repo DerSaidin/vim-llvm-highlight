@@ -1,3 +1,6 @@
+" LLVM CPP syntax by me to complement cpp highlighting:
+"     https://github.com/octol/vim-cpp-enhanced-highlight
+
 syntax keyword cppLLVMnamespace llvm
 
 syntax keyword cppLLVMfunctional isa
